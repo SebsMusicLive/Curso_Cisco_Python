@@ -15,4 +15,3 @@ while number != -1:
 
 # Imprime el número más grande.
 print("El número más grande es:", largest_number)
-
